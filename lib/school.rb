@@ -5,4 +5,6 @@ class School
   end
   
   def name
-    
+    @name
+  end
+end
